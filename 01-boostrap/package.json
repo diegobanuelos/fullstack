@@ -1,0 +1,15 @@
+{
+  "name": "01-boostrap",
+  "version": "1.0.0",
+  "description": "Ejercicio de prueba de boostrap",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server html/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
