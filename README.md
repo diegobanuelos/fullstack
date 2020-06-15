@@ -24,8 +24,8 @@ en el Stack de tecnologías que utilizamos para hacer nuestros productos.
 ## Dinámica
 
 - La entrevista será a través de videoconferencia.
-- La duración será de 45 minutos para realizar los ejercicios y 15 minutos para preguntas y resoliución de dudas.
-- Durante la entevista, te pediré que realices distintas acciones y ejercicios utilizando bootstrap, css y javascript.
+- La duración será de 45 minutos para realizar los ejercicios y 15 minutos para preguntas y resolución de dudas.
+- Durante la entrevista, te pediré que realices distintas acciones y ejercicios utilizando bootstrap, css y javascript.
 - Puedes utilizar el internet para buscar cualquier cosa que no recuerdes como lo harías en la vida real, solo te el tiempo en consideración.
 
 # Recomendaciones
@@ -33,6 +33,6 @@ en el Stack de tecnologías que utilizamos para hacer nuestros productos.
 - Comprueba previamente el funcionamiento de tu equipo: computadora, diadema, etc.
 - Revisa que tengas instaladas y funcionando el software necesario.
 - Haz la entrevista en un lugar aislado, que te permita concentrarte sin interrupciones.
-- Manten tu celular en silencio durante la entrevista.
+- Mantén tu celular en silencio durante la entrevista.
 
 ¡Mucho éxito!
