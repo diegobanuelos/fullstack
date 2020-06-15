@@ -1,0 +1,15 @@
+{
+  "name": "02-basico",
+  "version": "1.0.0",
+  "description": "El objetivo del ejercicio es desarrollar una función que reciba una cadena y la regrese en reversa.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.5.0",
+    "jasmine-spec-reporter": "^5.0.2"
+  }
+}
