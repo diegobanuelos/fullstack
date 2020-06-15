@@ -1,6 +1,6 @@
-## Obtener las palabras mas frecuentes
+## Obtener el top 10 de las palabras mas frecuentes
 
-El objetivo del ejercicio es desarrollar una función que reciba una cadena de texto y retorne un objeto arreglo con 
+El objetivo del ejercicio es desarrollar una función que reciba una cadena de texto y retorne un arreglo con 
 el top 10 de palabras más utilizadas junto con el número de ocurrencias en orden descendente. Esto se utilzará
 para mostrar un componente de una nube de palabras, muy útil para ver rápidamente tendencias en textos o conversaciones.
 
@@ -12,12 +12,12 @@ para mostrar un componente de una nube de palabras, muy útil para ver rápidame
 
 # Consideraciones
 
-- Todas las palabras tienen solo carácteres de la A a la Z y pueden incluir un solo apóstrofe.
+- Todas las palabras tienen solo carácteres de la A a la Z y pueden incluir un solo apóstrofe o comilla simple (').
 - Debe ignorar cualquier otro caracter que no sean los antes descritos.
-- La cadena debe convertirse a minúsculas antres de ser procesadas, por lo que "HOLA" y "hola" son la misma palabra. 
-- Si la cadena tiene menos de diez palabras, el arreglo solo debe contener las palabras encontradas.
+- La cadena debe convertirse a minúsculas antes de ser procesada, por lo que "HOLA" y "hola" serán la misma palabra. 
+- La función deberá devolver un arreglo con un máximo de 10 palabras únicas encontradas y el número de ocurrencias.
 - Si hay empate en el conteo, ordene por palabra de forma descendente (a->z).
-- De preferencia, utiliza ES6 cuando sea posible.
+- De preferencia, utiliza **ES6** cuando sea posible.
 
 
 
