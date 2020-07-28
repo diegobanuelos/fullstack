@@ -1,0 +1,21 @@
+{
+  "name": "03-original-num",
+  "version": "1.0.0",
+  "description": "Jorge quiere mantener seguros los \"PINS\" de sus tarjetas pero no quiere olvidarlos. Ha decido encriptar  el número siguiendo los siguientes pasos:",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "ava": {
+    "files": [
+      "test/**/*test.js"
+    ],
+    "failFast": true,
+    "verbose": true
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^3.11.0"
+  }
+}
