@@ -16,7 +16,7 @@ para mostrar un componente de una nube de palabras, muy útil para ver rápidame
 - Debe ignorar cualquier otro caracter que no sean los antes descritos.
 - La cadena debe convertirse a minúsculas antes de ser procesada, por lo que "HOLA" y "hola" serán la misma palabra. 
 - La función deberá devolver un arreglo con un máximo de 10 palabras únicas encontradas y el número de ocurrencias.
-- Si hay empate en el conteo, ordene por palabra de forma descendente (a->z).
+- Si hay empate en el conteo, ordene por palabra de forma ascendente (a->z).
 - De preferencia, utiliza **ES6** cuando sea posible.
 
 

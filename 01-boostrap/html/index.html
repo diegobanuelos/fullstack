@@ -10,12 +10,30 @@
 <body>
 
 
-    <h1>Forma de contacto</h1>
-    <form>
-        Nombre <input type="text" name="nombre" id="nombre">
-        Correo <input type="email" name="correo" id="correo">
-        <button type="submit">Enviar</button>
-    </form>
+    <div class="container-fluid">
+        <h1>Forma de contacto</h1>
+        <form>
+            <div class="form-group">
+                <label for="nombre">Nombre</label>
+                <input type="text" name="nombre" id="nombre" class="form-control">
+            </div>
+            <div class="row">
+                <div class="form-group col-sm-6">
+                    <label for="correo">Correo</label>
+                    <input type="email" name="correo" id="correo" class="form-control">
+                </div>
+    
+                <div class="form-group col-sm-6">
+                    <label for="telefono">Teléfono</label>
+                    <input type="email" name="telefono" id="telefono" class="form-control">
+                </div>
+            </div>
+            
+            
+            <button type="submit" class="float-right">Enviar</button>
+        </form>
+    </div>
+    
 
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
