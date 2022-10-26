@@ -1,9 +1,9 @@
   
-# Gracias por tu interés en aplicar a SalesUp!
+# Gracias por tu interés en aplicar a Upnify
 
-## Sobre SalesUp!
+## Sobre Upnify
 
-[SalesUp!](https://salesup.com) / [Upnify](https://upnify.com) es una empresa mexicana dedicada al desarrollo de plataformas SAAS para mejorar la productividad comercial 
+ [Upnify](https://upnify.com) antes [SalesUp!](https://salesup.com) es una empresa mexicana dedicada al desarrollo de plataformas SAAS para mejorar la productividad comercial 
 de empresas de todos los tamaños. Actualmente distribuimos nuestro producto no solo en México, sino en toda latinoamérica 
 (Colombia, Argentina, Panamá, Perú, Chile, Guatemala... 17 en total) y en los próximos meses, Estados Unidos, Canadá, 
 Inglaterra, Sudáfrica y varios países asiáticos. Es por ello que  necesitamos de tu talento en programación, 
